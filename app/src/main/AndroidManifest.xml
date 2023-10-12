@@ -12,6 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FlooringCalculator"
         tools:targetApi="31">
+
+        <activity android:name=".ResultsActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

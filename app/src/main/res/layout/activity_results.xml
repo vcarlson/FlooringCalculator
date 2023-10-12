@@ -20,7 +20,7 @@
     <TextView
         android:id="@+id/textViewArea"
         android:layout_width="206dp"
-        android:layout_height="0dp"
+        android:layout_height="50dp"
         android:layout_marginStart="16dp"
         android:layout_marginBottom="615dp"
         android:text="..."
